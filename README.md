@@ -1,7 +1,7 @@
 # Cryptography Semester 6 - CIA
 This repository contains the C Code of all the algorithms done in class. The algorithms are numbered as per the list given below
 
-# LIST IF ALGORITHMS
+# LIST OF ALGORITHMS:
 # Single substitution - Monoalphabetic
 1) Atbash Cipher
 2) Caesar Cipher
@@ -20,4 +20,8 @@ This repository contains the C Code of all the algorithms done in class. The alg
 13) Myszkowiski Cipher
 
 # OUTPUTS OF THE CODE:
-<img width="574" alt="image" src="https://github.com/user-attachments/assets/ab3df61c-cf4f-4904-a88c-8e389cc05db0" />
+1) Atbash Cipher:
+<img width="574" alt="image" src="https://github.com/user-attachments/assets/13776f6d-f285-4bbf-b996-d8b55c53c56c" />
+
+
+
