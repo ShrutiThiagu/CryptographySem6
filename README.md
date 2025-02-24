@@ -34,5 +34,8 @@ This repository contains the C Code of all the algorithms done in class. The alg
 <img width="622" alt="image" src="https://github.com/user-attachments/assets/4ce9bae3-45e5-4823-a9dd-8a3b4e4b9a12" />
 
 
+4) Affine Cipher:
+<img width="575" alt="image" src="https://github.com/user-attachments/assets/81f03412-dfaa-45fa-af88-f4ba704828a9" />
+
 
 
