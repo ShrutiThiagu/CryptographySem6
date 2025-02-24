@@ -24,8 +24,10 @@ This repository contains the C Code of all the algorithms done in class. The alg
 1) Atbash Cipher:
 <img width="574" alt="image" src="https://github.com/user-attachments/assets/13776f6d-f285-4bbf-b996-d8b55c53c56c" />
 
+
 2) Caesar Cipher:
 <img width="574" alt="image" src="https://github.com/user-attachments/assets/2a04c876-318b-4b31-a830-b31e75f4802e" />
+
 
 3) 
 
