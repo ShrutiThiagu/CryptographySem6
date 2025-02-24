@@ -29,11 +29,15 @@ This repository contains the C Code of all the algorithms done in class. The alg
 
 
 2) Caesar Cipher:
-<img width="574" alt="image" src="https://github.com/user-attachments/assets/2a04c876-318b-4b31-a830-b31e75f4802e" />
+<img width="575" alt="image" src="https://github.com/user-attachments/assets/28b47dde-afa9-43ba-86de-9d545cc6542c" />
+
+<img width="575" alt="image" src="https://github.com/user-attachments/assets/5d15401e-4ba4-4a47-b603-5c8dfe7fd4ce" />
 
 
 3) August Cipher:
-<img width="622" alt="image" src="https://github.com/user-attachments/assets/4ce9bae3-45e5-4823-a9dd-8a3b4e4b9a12" />
+<img width="575" alt="image" src="https://github.com/user-attachments/assets/4e4ac4ea-caed-4d4f-9e53-778178b54dc2" />
+
+<img width="575" alt="image" src="https://github.com/user-attachments/assets/ba71a922-1719-42a3-8bb6-6436ca7d1aed" />
 
 
 4) Affine Cipher:
