@@ -20,6 +20,7 @@ This repository contains the C Code of all the algorithms done in class. The alg
 13) Myszkowiski Cipher
 
 # OUTPUTS OF THE CODE:
+
 1) Atbash Cipher:
 <img width="574" alt="image" src="https://github.com/user-attachments/assets/13776f6d-f285-4bbf-b996-d8b55c53c56c" />
 
