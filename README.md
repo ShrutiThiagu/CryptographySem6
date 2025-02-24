@@ -7,18 +7,19 @@ This repository contains the C Code of all the algorithms done in class. The alg
 2) Caesar Cipher
 3) August Cipher
 4) Affine Cipher
+5) Multiplicative Cipher
 # Multiple substitution -  Polyalphabetical
-5) Vigenere Cipher
-6) Gronsfeld Cipher
-7) Beaufort Cipher
-8) Autokey Cipher
-9) Running key Cipher
+6) Vigenere Cipher
+7) Gronsfeld Cipher
+8) Beaufort Cipher
+9) Autokey Cipher
+10) Running key Cipher
 # Multiple substitution -  Polygraphic
-10) Hill Cipher
+11) Hill Cipher
 # Transpositional ciphers
-11) Rail fence Cipher
-12) Route Cipher
-13) Myszkowiski Cipher
+12) Rail fence Cipher
+13) Route Cipher
+14) Myszkowiski Cipher
 
 # OUTPUT OF THE CODE:
 
@@ -45,6 +46,12 @@ This repository contains the C Code of all the algorithms done in class. The alg
 
 <img width="575" alt="image" src="https://github.com/user-attachments/assets/729806b6-6591-421a-bf3f-2f5af105e5fb" />
 
+5) Multiplicative Cipher:
+<img width="575" alt="image" src="https://github.com/user-attachments/assets/a9b68ff8-ff32-4859-9920-6d9fbe19f87d" />
 
+<img width="575" alt="image" src="https://github.com/user-attachments/assets/5255489b-0e90-4152-958a-b9a59cd2bc6b" />
+
+
+6) 
 
 
