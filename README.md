@@ -20,10 +20,12 @@ This repository contains the C Code of all the algorithms done in class. The alg
 12) Route Cipher
 13) Myszkowiski Cipher
 
-# OUTPUTS OF THE CODE:
+# OUTPUT OF THE CODE:
 
 1) Atbash Cipher:
-<img width="574" alt="image" src="https://github.com/user-attachments/assets/13776f6d-f285-4bbf-b996-d8b55c53c56c" />
+<img width="575" alt="image" src="https://github.com/user-attachments/assets/2d5fe276-5c00-48fb-a7a7-c86338f901d2" />
+
+<img width="575" alt="image" src="https://github.com/user-attachments/assets/9e93b168-46d1-40b0-9e5e-85a710c848fd" />
 
 
 2) Caesar Cipher:
@@ -35,7 +37,10 @@ This repository contains the C Code of all the algorithms done in class. The alg
 
 
 4) Affine Cipher:
-<img width="575" alt="image" src="https://github.com/user-attachments/assets/81f03412-dfaa-45fa-af88-f4ba704828a9" />
+<img width="575" alt="image" src="https://github.com/user-attachments/assets/91dbe5b3-69f5-4a99-9109-bf18e1dd92aa" />
+
+<img width="575" alt="image" src="https://github.com/user-attachments/assets/729806b6-6591-421a-bf3f-2f5af105e5fb" />
+
 
 
 
