@@ -23,7 +23,7 @@ This repository contains the C Code of all the algorithms done in class. The alg
 
 # OUTPUT OF THE CODE:
 
-# MONO-ALPHABETICAL SUBSTITUTION
+# Monoalphabetic substitution
 
 1) Atbash Cipher:
 <img width="575" alt="image" src="https://github.com/user-attachments/assets/2d5fe276-5c00-48fb-a7a7-c86338f901d2" />
@@ -53,7 +53,7 @@ This repository contains the C Code of all the algorithms done in class. The alg
 
 <img width="575" alt="image" src="https://github.com/user-attachments/assets/5255489b-0e90-4152-958a-b9a59cd2bc6b" />
 
-# POLY-ALPHABETICAL SUBSTITUTION
+# Polyalphabetic substitution
 
 6) 
 
