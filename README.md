@@ -77,7 +77,8 @@ This repository contains the C Code of all the algorithms done in class. The alg
 
 <img width="735" alt="image" src="https://github.com/user-attachments/assets/336e50d7-aef3-48ab-949b-41a7d23026cf" />
 
-<img width="758" alt="image" src="https://github.com/user-attachments/assets/b507f514-8660-41a8-bc66-7e32e9aedf44" />
+<img width="732" alt="image" src="https://github.com/user-attachments/assets/11865ab1-d9ce-42c2-bf15-be26f94a0f43" />
+
 
 
 
