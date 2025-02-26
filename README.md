@@ -8,16 +8,15 @@ This repository contains the C Code of all the algorithms done in class. The alg
 3) August Cipher
 4) Affine Cipher
 5) Multiplicative Cipher
-*** CHECK PANNU
 # Multiple substitution -  Polyalphabetical
 6) Vigenere Cipher
 7) Gronsfeld Cipher
 8) Beaufort Cipher
 9) Autokey Cipher
 10) Running key Cipher
+11) ---
 # Multiple substitution -  Polygraphic
-11) Hill Cipher
-****** CHECK PANNU
+12) Hill Cipher
 # Transpositional ciphers
 13) Rail fence Cipher
 14) Route Cipher
