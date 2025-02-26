@@ -75,7 +75,8 @@ This repository contains the C Code of all the algorithms done in class. The alg
 
 15) Myszowiski Cipher:
 
-<img width="884" alt="image" src="https://github.com/user-attachments/assets/d4f45a24-8830-4032-af2b-c929a73932ce" />
+<img width="735" alt="image" src="https://github.com/user-attachments/assets/336e50d7-aef3-48ab-949b-41a7d23026cf" />
 
-<img width="875" alt="image" src="https://github.com/user-attachments/assets/f78f1f70-9e07-411a-a03b-51f6b995b1f4" />
+<img width="735" alt="image" src="https://github.com/user-attachments/assets/66a28150-2629-4340-aedd-9861af32221b" />
+
 
