@@ -62,9 +62,10 @@ This repository contains the C Code of all the algorithms done in class. The alg
 # Transpositional ciphers
 
 13) Rail fence Cipher:
-<img width="517" alt="image" src="https://github.com/user-attachments/assets/02d598a0-4557-4e45-be8a-0bf53d9f153c" />
 
-<img width="517" alt="image" src="https://github.com/user-attachments/assets/567592ad-f58d-438e-acc6-bf1458d03bd4" />
+<img width="516" alt="image" src="https://github.com/user-attachments/assets/f4a3defa-1c09-475f-b466-26105f69c954" />
+
+<img width="516" alt="image" src="https://github.com/user-attachments/assets/67ca5337-82f9-4053-b5b8-a48684506370" />
 
 14) Route Cipher:
 
