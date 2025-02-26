@@ -8,6 +8,7 @@ This repository contains the C Code of all the algorithms done in class. The alg
 3) August Cipher
 4) Affine Cipher
 5) Multiplicative Cipher
+*** CHECK PANNU
 # Multiple substitution -  Polyalphabetical
 6) Vigenere Cipher
 7) Gronsfeld Cipher
@@ -16,10 +17,11 @@ This repository contains the C Code of all the algorithms done in class. The alg
 10) Running key Cipher
 # Multiple substitution -  Polygraphic
 11) Hill Cipher
+****** CHECK PANNU
 # Transpositional ciphers
-12) Rail fence Cipher
-13) Route Cipher
-14) Myszkowiski Cipher
+13) Rail fence Cipher
+14) Route Cipher
+15) Myszkowiski Cipher
 
 # OUTPUT OF THE CODE:
 
@@ -56,5 +58,12 @@ This repository contains the C Code of all the algorithms done in class. The alg
 # Polyalphabetic substitution
 
 6) 
+
+# Transpositional ciphers
+
+13) Rail fence Cipher
+<img width="517" alt="image" src="https://github.com/user-attachments/assets/02d598a0-4557-4e45-be8a-0bf53d9f153c" />
+
+<img width="517" alt="image" src="https://github.com/user-attachments/assets/567592ad-f58d-438e-acc6-bf1458d03bd4" />
 
 
