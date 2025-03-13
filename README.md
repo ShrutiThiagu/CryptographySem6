@@ -58,6 +58,14 @@ This repository contains the C Code of all the algorithms done in class. The alg
 
 6) 
 
+# Multiple substitution -  Polygraphic
+
+12) Hill Cipher
+
+<img width="566" alt="image" src="https://github.com/user-attachments/assets/b28d23e3-9f10-4a07-b8c0-e61e99a74fc9" />
+
+<img width="566" alt="image" src="https://github.com/user-attachments/assets/e81b9a58-5a3b-40fb-8a39-4439eef13798" />
+
 # Transpositional ciphers
 
 13) Rail fence Cipher:
