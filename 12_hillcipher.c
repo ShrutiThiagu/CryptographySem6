@@ -1,17 +1,14 @@
 #include <stdio.h>
 #include <string.h>
-
 #define MOD 26
 #define SIZE 3
 
 int charToNum(char c) {
     return c - 'A';
 }
-
 char numToChar(int n) {
     return (n % MOD + MOD) % MOD + 'A';
 }
-
 int modInverse(int a) {
     a = a % MOD;
     for (int x = 1; x < MOD; x++) {
@@ -21,18 +18,15 @@ int modInverse(int a) {
     }
     return -1;
 }
-
 int determinant(int matrix[SIZE][SIZE]) {
     return (matrix[0][0] * (matrix[1][1] * matrix[2][2] - matrix[1][2] * matrix[2][1]) -
             matrix[0][1] * (matrix[1][0] * matrix[2][2] - matrix[1][2] * matrix[2][0]) +
             matrix[0][2] * (matrix[1][0] * matrix[2][1] - matrix[1][1] * matrix[2][0])) % MOD;
 }
-
 void inverseMatrix(int key[SIZE][SIZE], int inverse[SIZE][SIZE]) {
     int det = determinant(key);
     if (det < 0) det += MOD;
     int detInv = modInverse(det);
-
     if (detInv == -1) {
         return;
     }
@@ -48,7 +42,6 @@ void inverseMatrix(int key[SIZE][SIZE], int inverse[SIZE][SIZE]) {
         }
     }
 }
-
 void hillCipherEncrypt(char plaintext[], int key[SIZE][SIZE]) {
     int textVector[SIZE], cipherVector[SIZE];
     int i, j, k = 0, textLength = strlen(plaintext);
@@ -82,11 +75,9 @@ void hillCipherEncrypt(char plaintext[], int key[SIZE][SIZE]) {
         printf("\n");
     }
 }
-
 void hillCipherDecrypt(char ciphertext[], int key[SIZE][SIZE]) {
     int inverseKey[SIZE][SIZE];
     inverseMatrix(key, inverseKey);
-
     printf("\nDecryption Using Inverse Key Matrix:\n");
     for (int i = 0; i < SIZE; i++) {
         for (int j = 0; j < SIZE; j++) {
@@ -94,10 +85,8 @@ void hillCipherDecrypt(char ciphertext[], int key[SIZE][SIZE]) {
         }
         printf("\n");
     }
-
     int textVector[SIZE], plainVector[SIZE];
     int i, j, k = 0, textLength = strlen(ciphertext);
-
     printf("\nDecryption Computation:\n");
     for (k = 0; k < textLength; k += SIZE) {
         printf("\nBlock %d: ", k / SIZE + 1);
@@ -105,7 +94,6 @@ void hillCipherDecrypt(char ciphertext[], int key[SIZE][SIZE]) {
             textVector[i] = charToNum(ciphertext[k + i]);
             printf("%c(%d) ", ciphertext[k + i], textVector[i]);
         }
-
         printf("\nMultiplication steps:\n");
         for (i = 0; i < SIZE; i++) {
             plainVector[i] = 0;
@@ -124,7 +112,6 @@ void hillCipherDecrypt(char ciphertext[], int key[SIZE][SIZE]) {
         printf("\n");
     }
 }
-
 int main() {
     char plaintext[100], ciphertext[100];
     int key[SIZE][SIZE];
