@@ -42,6 +42,7 @@ void inverseMatrix(int key[SIZE][SIZE], int inverse[SIZE][SIZE]) {
         }
     }
 }
+
 void hillCipherEncrypt(char plaintext[], int key[SIZE][SIZE]) {
     int textVector[SIZE], cipherVector[SIZE];
     int i, j, k = 0, textLength = strlen(plaintext);
