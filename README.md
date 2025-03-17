@@ -12,9 +12,10 @@ This repository contains the C Code of all the algorithms done in class. The alg
 6) Vigenere Cipher
 7) Gronsfeld Cipher
 8) Beaufort Cipher
-9) Autokey Cipher
+9) Autoclave / Autokey Cipher
 10) Running key Cipher
-11) ---
+# N-gram splitting algorithm (Used in Hill cipher)
+11) N-gram Splitting
 # Multiple substitution -  Polygraphic
 12) Hill Cipher
 # Transpositional ciphers
@@ -68,7 +69,30 @@ This repository contains the C Code of all the algorithms done in class. The alg
 
 <img width="630" alt="image" src="https://github.com/user-attachments/assets/59435f94-6f5c-4534-b97a-404010dd44e0" />
 
-8) 
+8) Beaufort Cipher
+
+<img width="630" alt="image" src="https://github.com/user-attachments/assets/7faf309c-a568-412c-bdda-136c14acf5e2" />
+
+<img width="630" alt="image" src="https://github.com/user-attachments/assets/15bad862-b54d-4ca5-b722-e799a69b8d82" />
+
+9) Autoclave / Autokey Cipher
+
+<img width="630" alt="image" src="https://github.com/user-attachments/assets/892ad077-b3fe-4524-b6dd-817bcd2ea113" />
+
+<img width="630" alt="image" src="https://github.com/user-attachments/assets/ab1eef77-2bb9-4c9c-88bb-034f83ae81c2" />
+
+10) Running key Cipher
+
+<img width="630" alt="image" src="https://github.com/user-attachments/assets/c758bdde-97c3-4499-98cc-2f3cc70fdcce" />
+
+<img width="630" alt="image" src="https://github.com/user-attachments/assets/bc2cab7d-0580-4a49-bb5a-677bff06019a" />
+
+# N-gram splitting algorithm - to reduce complexity (No. of multiplications)
+11) N-gram Splitting
+
+<img width="630" alt="image" src="https://github.com/user-attachments/assets/8e418d6a-d3cc-418a-90c2-243aa3cdadc0" />
+
+<img width="630" alt="image" src="https://github.com/user-attachments/assets/b49b27ca-4b19-4490-bf01-d162ade1adfb" />
 
 # Multiple substitution -  Polygraphic
 
