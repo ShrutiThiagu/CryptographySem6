@@ -56,7 +56,13 @@ This repository contains the C Code of all the algorithms done in class. The alg
 
 # Polyalphabetic substitution
 
-6) 
+6) Vignere Cipher
+
+<img width="630" alt="image" src="https://github.com/user-attachments/assets/6f50fe90-c26a-4e53-8789-fe618d71dd3a" />
+
+<img width="630" alt="image" src="https://github.com/user-attachments/assets/f89915f1-1a1f-427e-aacd-2c2da8ff7a15" />
+
+7) 
 
 # Multiple substitution -  Polygraphic
 
