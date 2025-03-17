@@ -1,7 +1,7 @@
 # Cryptography Semester 6 - CIA
 This repository contains the C Code of all the algorithms done in class. The algorithms are numbered as per the list given below
 
-# LIST OF ALGORITHMS: (Pre-Mid Semester Examinations)
+# LIST OF ALGORITHMS: (15 Algorithms)
 # Single substitution - Monoalphabetic
 1) Atbash Cipher
 2) Caesar Cipher
