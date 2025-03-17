@@ -62,7 +62,13 @@ This repository contains the C Code of all the algorithms done in class. The alg
 
 <img width="630" alt="image" src="https://github.com/user-attachments/assets/f89915f1-1a1f-427e-aacd-2c2da8ff7a15" />
 
-7) 
+7) Gronsfeld Cipher
+
+<img width="630" alt="image" src="https://github.com/user-attachments/assets/5100c7e7-2854-4dba-b7fc-4a4d134832ce" />
+
+<img width="630" alt="image" src="https://github.com/user-attachments/assets/59435f94-6f5c-4534-b97a-404010dd44e0" />
+
+8) 
 
 # Multiple substitution -  Polygraphic
 
